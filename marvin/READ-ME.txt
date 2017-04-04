@@ -1,0 +1,58 @@
+ ----------------------------------------------------------------
+/  1. Using Marvin in your a application                        /
+----------------------------------------------------------------
+
+- copy this folder 'marvin' to your project folder and add marvin_1.4.2.jar into your project 
+  library list
+- the folder organization, including subfolders 'framework' and 'plugins', must be preserved.
+- DO NOT add plug-ins .jar to your library list. They are loaded dynamically.
+
+ ----------------------------------------------------------------
+/  2. Compiling and running (command-line)                      /
+----------------------------------------------------------------
+
+Compiling: javac -cp .;./marvin/framework/marvin_1.4.2.jar YourApplication.java
+
+Running: java -cp .;./marvin/framework/marvin_1.4.2.jar YourApplication
+
+ ----------------------------------------------------------------
+/  3. License                                                   /
+----------------------------------------------------------------
+
+Marvin is released under LGPL license. Basically it can be distributed by any means. Its
+binary might be used for commercial purposes.
+
+ ----------------------------------------------------------------
+/  4. Resources                                                 /
+----------------------------------------------------------------
+Marvin Framework dicussion group:
+https://groups.google.com/group/marvin-project
+
+Tutorials:
+http://marvinproject.sourceforge.net/en/tutorials.html
+
+Available plug-ins:
+http://marvinproject.sourceforge.net/en/plugins.html
+
+Downloads (Project source codes and samples):
+http://marvinproject.sourceforge.net/en/download.html
+
+Youtube Channel:
+http://www.youtube.com/user/marvinproject
+
+ ----------------------------------------------------------------
+/  5. Recommend this project                                    /
+----------------------------------------------------------------
+
+Do you like Marvin? Recommend it:
+http://sourceforge.net/projects/marvinproject/reviews/
+
+ ----------------------------------------------------------------
+/  6. Subscribe Marvin releases at Freecode                     /
+----------------------------------------------------------------
+
+http://freecode.com/projects/marvin
+
+
+Marvin Framework 2012
+www.marvinproject.org
